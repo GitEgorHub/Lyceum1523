@@ -4,6 +4,6 @@
 
 ## Темы
 
-- [квадратичные сортировки](Lyceum1523/squareSortings/)
+- [квадратичные сортировки](Lyceum1523/squareSortings/HowToSortRUS.md)
 
 - быстрые сортировки

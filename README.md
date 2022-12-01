@@ -6,4 +6,4 @@
 
 - быстрые сортировки
 
-- [строки]()
+- [строки](https://github.com/TryKuhn/Lyceum1523/blob/main/strings/howToUseRus.md)

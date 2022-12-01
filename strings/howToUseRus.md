@@ -68,3 +68,6 @@ string s = "abacaba";
 - Проверка на то, находится ли $c$ в верхнем регистре --- `isupper(c)`
 - Проверка на то, находится ли $c$ в нижнем регистре --- `islower(c)`
 
+## Видео по строкам:
+
+[![Watch the video](https://ciksiti.com/f/5b696c159080a6ee6f529e8812c23cfc.png)](https://www.youtube.com/watch?v=Sdk3ziwZZyk&t=3s)

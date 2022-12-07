@@ -4,6 +4,6 @@
 
 - [квадратичные сортировки](https://github.com/TryKuhn/Lyceum1523/blob/main/squareSortings/HowToSortRUS.md)
 
-- быстрые сортировки
+- [быстрые сортировки]()
 
 - [строки](https://github.com/TryKuhn/Lyceum1523/blob/main/strings/howToUseRus.md)
